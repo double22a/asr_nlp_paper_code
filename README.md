@@ -30,6 +30,27 @@
 
 - [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
 
+
+## cascaded
+
+- [Modular End-to-end Automatic Speech Recognition Framework for Acoustic-to-word Model](https://arxiv.org/pdf/2008.00953.pdf), Qi Liu et al, 2008
+
+- [TRANSFORMER TRANSDUCER: ONE MODEL UNIFYING STREAMING AND NON-STREAMING SPEECH RECOGNITION](https://arxiv.org/abs/2010.03192), Anshuman Tripathi et al, 2010
+
+- [UNIVERSAL ASR: UNIFYING STREAMING AND NON-STREAMING ASR USING A SINGLE ENCODER-DECODER MODEL](https://arxiv.org/abs/2010.14099), Zhifu Gao et al, 2010
+
+- [CASCADED ENCODERS FOR UNIFYING STREAMING AND NON-STREAMING ASR](https://arxiv.org/abs/2010.14606), Arun Narayanan et al, 2010
+
+- [CASCADE RNN-TRANSDUCER: SYLLABLE BASED STREAMING ON-DEVICE MANDARIN SPEECH RECOGNITION WITH A SYLLABLE-TO-CHARACTER CONVERTER](https://arxiv.org/abs/2011.08469), Xiong Wang et al, 2011
+
+- [Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition](https://arxiv.org/abs/2012.05481), Binbin Zhang, 2012
+
+- [TRANSFORMER BASED DELIBERATION FOR TWO-PASS SPEECH RECOGNITION](https://arxiv.org/abs/2101.11577), Ke Hu et al, 2101
+
+- [TSNAT: Two-Step Non-Autoregressvie Transformer Models for Speech Recognition](https://arxiv.org/abs/2104.01522), Zhengkun Tian et al, 2104
+
+- [DECOUPLING RECOGNITION AND TRANSCRIPTION IN MANDARIN ASR](https://arxiv.org/abs/2108.01129), Jiahong Yuan et al, 2108
+
 ## contextual
 
 - [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, 2003
