@@ -1,4 +1,6 @@
-## The tools of ASR
+# The Tools of ASR
+
+## training or inference
 
 - [fairseq](https://github.com/pytorch/fairseq)
 
@@ -15,3 +17,10 @@
 - [pika](https://github.com/tencent-ailab/pika)
 
 - [wenet](https://github.com/wenet-e2e/wenet)
+
+
+## feature
+
+- [kaldifeat](https://github.com/csukuangfj/kaldifeat), Feature extraction compatible with Kaldi using PyTorch, supporting CUDA, batch processing, chunk processing, and autograd.
+
+- [kaldiio](https://github.com/nttcslab-sp/kaldiio), kaldiio is an IO utility implemented in pure Python language for several file formats used in kaldi
