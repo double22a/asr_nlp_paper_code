@@ -22,6 +22,13 @@
 
 ## streaming
 
+- [A BETTER AND FASTER END-TO-END MODEL FOR STREAMING ASR](https://arxiv.org/abs/2011.10798), Bo Li et al, 2011
+
+- [Bridging the gap between streaming and non-streaming ASR systems by distilling ensembles of CTC and RNN-T models](https://arxiv.org/abs/2104.14346), Thibault Doutre et al, 2104
+
+- [Reducing Streaming ASR Model Delay with Self Alignment](https://arxiv.org/abs/2105.05005), Jaeyoung Kim et al, 2105
+
+- [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
 
 ## contextual
 
