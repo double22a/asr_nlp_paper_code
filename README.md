@@ -2,6 +2,16 @@
 
 ## transformer
 
+- [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), Abdelrahman Mohamed et al, 1904 
+
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100), Anmol Gulati et al, 2005
+
+- [SIMPLIFIED SELF-ATTENTION FOR TRANSFORMER-BASED END-TO-END SPEECH RECOGNITION](https://arxiv.org/abs/2005.10463), Haoneng Luo et al, 2005
+
+- [Advanced Long-context End-to-end Speech Recognition Using Context-expanded Transformers](https://arxiv.org/abs/2104.09426), Takaaki Hori et al, 2104
+
+- [A Survey of Transformers](https://arxiv.org/abs/2106.04554), Tianyang Lin et al, 2106
+
 ## transducer
 
 
