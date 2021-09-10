@@ -58,3 +58,11 @@
 - [Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion](https://arxiv.org/abs/2104.02194), Duc Le et al, 2104
 
 - [Tree-constrained Pointer Generator for End-to-end Contextual Speech Recognition](https://arxiv.org/abs/2109.00627), Guangzhi Sun et al, 2109
+
+## 
+
+- [Scaling End-to-End Models for Large-Scale Multilingual ASR](https://arxiv.org/abs/2104.14830), Bo Li et al, 2104
+
+- [A Study of Multilingual End-to-End Speech Recognition for Kazakh, Russian, and English](https://arxiv.org/abs/2108.01280), Saida Mussakhojayeva et al, 2108
+
+- [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N, 2109
