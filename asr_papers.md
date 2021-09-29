@@ -66,3 +66,16 @@
 - [A Study of Multilingual End-to-End Speech Recognition for Kazakh, Russian, and English](https://arxiv.org/abs/2108.01280), Saida Mussakhojayeva et al, 2108
 
 - [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N, 2109
+
+
+## unsupervised & semi-supervised & self-supervised
+
+- [Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2010.10504), Yu Zhang et al, 2010
+
+- [Unsupervised Speech Recognition](https://arxiv.org/abs/2105.11084), Alexei Baevski et al, 2105
+
+- [Unsupervised Automatic Speech Recognition : A Review](https://arxiv.org/abs/2106.04897), Hanan Aldarmaki et al, 2106
+
+- [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447), Wei-Ning Hsu et al, 2106
+
+- [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2109.13226), Yu Zhang et al, 2109
