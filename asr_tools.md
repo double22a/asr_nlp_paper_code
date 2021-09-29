@@ -31,6 +31,8 @@
 
 - [fastBPE](https://github.com/glample/fastBPE), C++ implementation of Neural Machine Translation of Rare Words with Subword Units, with Python API
 
+- [dictionaty](https://github.com/speechio/BigCiDian), a pronunciation lexicon covering both English and Chinese words in a unified phoneset
+
 
 ## loss function
 
