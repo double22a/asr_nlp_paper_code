@@ -79,3 +79,23 @@
 - [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447), Wei-Ning Hsu et al, 2106
 
 - [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2109.13226), Yu Zhang et al, 2109
+
+
+## review
+
+- [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/abs/2005.14327), Jinyu Li et al, 2005
+
+- [Adaptation Algorithms for Neural Network-Based Speech Recognition: An Overview](https://arxiv.org/abs/2008.06580), Peter Bell et al, 2008
+
+- [Automatic speech recognition: a survey](https://link.springer.com/article/10.1007/s11042-020-10073-7), Mishaim Malik et al, 2011
+
+- [A REVIEW OF ON-DEVICE FULLY NEURAL END-TO-END AUTOMATIC SPEECH RECOGNITION ALGORITHMS](https://arxiv.org/abs/2012.07974), Chanwoo Kim et al, 2012
+
+- [Thank you for Attention: A survey on Attention-based Artificial Neural Networks for Automatic Speech Recognition](https://arxiv.org/abs/2102.07259), Priyabrata Karmakar et al, 2102
+
+- [Accented Speech Recognition: A Survey](https://arxiv.org/abs/2104.10747), Arthur Hinsvark et al, 2104
+
+- [The History of Speech Recognition to the Year 2030](https://arxiv.org/abs/2108.00084), Awni Hannun et al, 2108
+
+- [Automatic Speech Recognition using limited vocabulary: A survey](https://arxiv.org/abs/2108.10254), JEAN LOUIS K. E. FENDJI et al, 2108
+
