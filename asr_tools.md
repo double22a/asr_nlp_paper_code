@@ -33,6 +33,8 @@
 
 - [dictionaty](https://github.com/speechio/BigCiDian), a pronunciation lexicon covering both English and Chinese words in a unified phoneset
 
+- [汉字转为拼音](https://github.com/mozillazg/python-pinyin)
+
 
 ## loss function
 
