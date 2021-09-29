@@ -35,7 +35,7 @@
 
 - [汉字转为拼音](https://github.com/mozillazg/python-pinyin)
 
-- [text processing](https://github.com/wenet-e2e/wenet-text-processing)
+- [text processing](https://github.com/wenet-e2e/wenet-text-processing), Inverse Text Normalization & Text Normalization
 
 
 ## loss function
