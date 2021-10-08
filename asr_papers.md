@@ -61,13 +61,15 @@
 
 - [INTEGRATING CATEGORICAL FEATURES IN END-TO-END ASR](https://arxiv.org/pdf/2110.03047.pdf), Rongqing Huang et al, 2110
 
-## multilingual
+## multilingual & accent
 
 - [Scaling End-to-End Models for Large-Scale Multilingual ASR](https://arxiv.org/abs/2104.14830), Bo Li et al, 2104
 
 - [A Study of Multilingual End-to-End Speech Recognition for Kazakh, Russian, and English](https://arxiv.org/abs/2108.01280), Saida Mussakhojayeva et al, 2108
 
-- [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N, 2109
+- [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N et al, 2109
+
+- [ACCENT-ROBUST AUTOMATIC SPEECH RECOGNITION USING SUPERVISED AND UNSUPERVISED WAV2VEC EMBEDDINGS](https://arxiv.org/pdf/2110.03520.pdf), Jialu Li et al, FaceBook, 2110
 
 
 ## code-switching
