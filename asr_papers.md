@@ -2,9 +2,9 @@
 
 ## transformer
 
-- [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), Abdelrahman Mohamed et al, 1904 
+- [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), Abdelrahman Mohamed et al, Facebook, 1904 
 
-- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100), Anmol Gulati et al, 2005
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/abs/2005.08100), Anmol Gulati et al, Google, 2005
 
 - [SIMPLIFIED SELF-ATTENTION FOR TRANSFORMER-BASED END-TO-END SPEECH RECOGNITION](https://arxiv.org/abs/2005.10463), Haoneng Luo et al, 2005
 
