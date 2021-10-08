@@ -81,6 +81,16 @@
 - [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2109.13226), Yu Zhang et al, 2109
 
 
+## confidence estimation
+
+- [Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks](https://arxiv.org/pdf/1910.11933.pdf), A. Kastanos et al, 1910
+
+- [CONFIDENCE ESTIMATION FOR ATTENTION-BASED SEQUENCE-TO-SEQUENCE MODELS FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2010.11428v2.pdf), Qiujia Li et al, 2010
+
+- [Residual Energy-Based Models for End-to-End Speech Recognition](https://arxiv.org/pdf/2103.14152v1.pdf), Qiujia Li et al, 2103
+
+- [Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction](https://arxiv.org/pdf/2104.12870.pdf), David Qiu et al, 2104
+
 ## review
 
 - [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/abs/2005.14327), Jinyu Li et al, 2005
