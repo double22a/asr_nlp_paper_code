@@ -69,7 +69,7 @@
 
 - [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N et al, 2109
 
-- [ACCENT-ROBUST AUTOMATIC SPEECH RECOGNITION USING SUPERVISED AND UNSUPERVISED WAV2VEC EMBEDDINGS](https://arxiv.org/pdf/2110.03520.pdf), Jialu Li et al, FaceBook, 2110
+- [ACCENT-ROBUST AUTOMATIC SPEECH RECOGNITION USING SUPERVISED AND UNSUPERVISED WAV2VEC EMBEDDINGS](https://arxiv.org/pdf/2110.03520.pdf), Jialu Li et al, Facebook, 2110
 
 
 ## code-switching
@@ -94,11 +94,13 @@
 
 - [Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks](https://arxiv.org/pdf/1910.11933.pdf), A. Kastanos et al, 1910
 
-- [CONFIDENCE ESTIMATION FOR ATTENTION-BASED SEQUENCE-TO-SEQUENCE MODELS FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2010.11428v2.pdf), Qiujia Li et al, 2010
+- [CONFIDENCE ESTIMATION FOR ATTENTION-BASED SEQUENCE-TO-SEQUENCE MODELS FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2010.11428v2.pdf), Qiujia Li et al, Google, 2010
 
-- [Residual Energy-Based Models for End-to-End Speech Recognition](https://arxiv.org/pdf/2103.14152v1.pdf), Qiujia Li et al, 2103
+- [Residual Energy-Based Models for End-to-End Speech Recognition](https://arxiv.org/pdf/2103.14152v1.pdf), Qiujia Li et al, Google 2103
 
-- [Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction](https://arxiv.org/pdf/2104.12870.pdf), David Qiu et al, 2104
+- [Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction](https://arxiv.org/pdf/2104.12870.pdf), David Qiu et al, Google 2104
+
+- [IMPROVING CONFIDENCE ESTIMATION ON OUT-OF-DOMAIN DATA FOR END-TO-END SPEECH RECOGNITION](https://arxiv.org/pdf/2110.03327.pdf), Qiujia Li et al, Google, 2110
 
 ## review
 
