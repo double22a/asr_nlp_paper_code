@@ -70,6 +70,11 @@
 - [Multilingual Speech Recognition for Low-Resource Indian Languages using Multi-Task conformer](https://arxiv.org/abs/2109.03969), Krishna D N, 2109
 
 
+## code-switching
+
+- [Bi-encoder Transformer Network for Mandarin-English Code-switching Speech Recognition using Mixture of Experts](https://speechlab.sjtu.edu.cn/papers/2020/yzl23-lu-is2020.pdf), Yizhou Lu et al, 2005
+
+
 ## unsupervised & semi-supervised & self-supervised
 
 - [Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2010.10504), Yu Zhang et al, 2010
