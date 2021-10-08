@@ -51,7 +51,7 @@
 
 - [DECOUPLING RECOGNITION AND TRANSCRIPTION IN MANDARIN ASR](https://arxiv.org/abs/2108.01129), Jiahong Yuan et al, 2108
 
-## contextual
+## contextual & domain
 
 - [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, 2003
 
