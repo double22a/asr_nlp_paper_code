@@ -2,6 +2,8 @@
 
 ## data augmentation
 
+- [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/pdf/1904.08779.pdf), Daniel S. Park et al, Google, 1904
+
 - [SPLICEOUT: A Simple and Efficient Audio Augmentation Method](https://arxiv.org/pdf/2110.00046.pdf), Arjit Jain et al, 2109
 
 ## transformer
