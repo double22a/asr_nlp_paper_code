@@ -76,6 +76,8 @@
 
 - [Bi-encoder Transformer Network for Mandarin-English Code-switching Speech Recognition using Mixture of Experts](https://speechlab.sjtu.edu.cn/papers/2020/yzl23-lu-is2020.pdf), Yizhou Lu et al, 2005
 
+- [MANDARIN-ENGLISH CODE-SWITCHING SPEECH RECOGNITION WITH SELF-SUPERVISED SPEECH REPRESENTATION MODELS](https://arxiv.org/pdf/2110.03504.pdf), Liang-Hsuan Tseng et al, 2110
+
 
 ## unsupervised & semi-supervised & self-supervised
 
@@ -96,9 +98,9 @@
 
 - [CONFIDENCE ESTIMATION FOR ATTENTION-BASED SEQUENCE-TO-SEQUENCE MODELS FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2010.11428v2.pdf), Qiujia Li et al, Google, 2010
 
-- [Residual Energy-Based Models for End-to-End Speech Recognition](https://arxiv.org/pdf/2103.14152v1.pdf), Qiujia Li et al, Google 2103
+- [Residual Energy-Based Models for End-to-End Speech Recognition](https://arxiv.org/pdf/2103.14152v1.pdf), Qiujia Li et al, Google, 2103
 
-- [Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction](https://arxiv.org/pdf/2104.12870.pdf), David Qiu et al, Google 2104
+- [Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction](https://arxiv.org/pdf/2104.12870.pdf), David Qiu et al, Google, 2104
 
 - [IMPROVING CONFIDENCE ESTIMATION ON OUT-OF-DOMAIN DATA FOR END-TO-END SPEECH RECOGNITION](https://arxiv.org/pdf/2110.03327.pdf), Qiujia Li et al, Google, 2110
 
