@@ -1,5 +1,9 @@
 # ASR Paper
 
+## data augmentation
+
+- [SPLICEOUT: A Simple and Efficient Audio Augmentation Method](https://arxiv.org/pdf/2110.00046.pdf), Arjit Jain et al, 2109
+
 ## transformer
 
 - [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), Abdelrahman Mohamed et al, Facebook, 1904 
