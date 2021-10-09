@@ -8,8 +8,11 @@
 
 - [chinese text normalization](https://github.com/speechio/chinese_text_normalization)
 
-- [汉字转为拼音](https://github.com/mozillazg/python-pinyin)
+- [python-pinyin](https://github.com/mozillazg/python-pinyin), 汉字转拼音
 
-- [中文简繁转换](https://github.com/gumblex/zhconv)
+- [zhconv](https://github.com/gumblex/zhconv), 中文简繁转换
 
 - [jieba](https://github.com/fxsjy/jieba), Python Chinese word segmentation module
+
+- [Macropodus](https://github.com/yongzhuo/Macropodus), 中文分词、词性标注、命名实体识别、关键词抽取、文本摘要、新词发现、文本相似度、计算器、数字转换、拼音转换、繁简转换等常见NLP功能
+
