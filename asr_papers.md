@@ -59,9 +59,13 @@
 
 ## contextual & domain
 
-- [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, 2003
+- [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, Google, 2003
+
+- [INTERNAL LANGUAGE MODEL TRAINING FOR DOMAIN-ADAPTIVE END-TO-END SPEECH RECOGNITION](https://arxiv.org/pdf/2102.01380.pdf), Zhong Meng et al, Microsoft, 2102
 
 - [Contextualized Streaming End-to-End Speech Recognition with Trie-Based Deep Biasing and Shallow Fusion](https://arxiv.org/abs/2104.02194), Duc Le et al, 2104
+
+- [Investigating Methods to Improve Language Model Integration for Attention-based Encoder-Decoder ASR Models](https://arxiv.org/abs/2104.05544), Mohammad Zeineldeen et al, RWTH, 2104
 
 - [Tree-constrained Pointer Generator for End-to-end Contextual Speech Recognition](https://arxiv.org/abs/2109.00627), Guangzhi Sun et al, 2109
 
