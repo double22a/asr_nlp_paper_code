@@ -18,6 +18,8 @@
 
 - [wenet](https://github.com/wenet-e2e/wenet)
 
+- [CAT](https://github.com/thu-spmi/CAT)
+
 
 ## feature
 
@@ -33,7 +35,7 @@
 
 - [dictionaty](https://github.com/speechio/BigCiDian), a pronunciation lexicon covering both English and Chinese words in a unified phoneset
 
-- [汉字转为拼音](https://github.com/mozillazg/python-pinyin)
+- [python-pinyin](https://github.com/mozillazg/python-pinyin), 汉字转为拼音
 
 - [text processing](https://github.com/wenet-e2e/wenet-text-processing), Inverse Text Normalization & Text Normalization
 
