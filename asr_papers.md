@@ -103,6 +103,8 @@
 
 - [BigSSL: Exploring the Frontier of Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2109.13226), Yu Zhang et al, 2109
 
+- [IMPROVING PSEUDO-LABEL TRAINING FOR END-TO-END SPEECH RECOGNITION USING GRADIENT MASK](https://arxiv.org/pdf/2110.04056.pdf), Shaoshi Ling et al, Bytedance, 2110
+
 
 ## confidence estimation
 
