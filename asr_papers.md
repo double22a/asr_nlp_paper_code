@@ -6,7 +6,13 @@
 
 - [SPLICEOUT: A Simple and Efficient Audio Augmentation Method](https://arxiv.org/pdf/2110.00046.pdf), Arjit Jain et al, 2109
 
-## transformer
+## CTC
+
+- [Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://www.cs.toronto.edu/~graves/icml_2006.pdf), Alex Graves et al, 0601
+
+- [SCALA: SUPERVISED CONTRASTIVE LEARNING FOR END-TO-END AUTOMATIC SPEECH RECOGNITION](https://arxiv.org/pdf/2110.04187.pdf), Li Fu et al, 2110
+
+## transformer & attention based
 
 - [Transformers with convolutional context for ASR](https://arxiv.org/abs/1904.11660), Abdelrahman Mohamed et al, Facebook, 1904 
 
@@ -18,6 +24,17 @@
 
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554), Tianyang Lin et al, 2106
 
+## streaming & attention based
+
+- [A BETTER AND FASTER END-TO-END MODEL FOR STREAMING ASR](https://arxiv.org/abs/2011.10798), Bo Li et al, 2011
+
+- [Bridging the gap between streaming and non-streaming ASR systems by distilling ensembles of CTC and RNN-T models](https://arxiv.org/abs/2104.14346), Thibault Doutre et al, 2104
+
+- [Reducing Streaming ASR Model Delay with Self Alignment](https://arxiv.org/abs/2105.05005), Jaeyoung Kim et al, 2105
+
+- [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
+
+
 ## transducer
 
 - [TRANSFORMER-TRANSDUCER: END-TO-END SPEECH RECOGNITION WITH SELF-ATTENTION](https://arxiv.org/abs/1910.12977), Ching-Feng Yeh et al, 1910
@@ -27,16 +44,6 @@
 - [LESS IS MORE: IMPROVED RNN-T DECODING USING LIMITED LABEL CONTEXT AND PATH MERGING](https://arxiv.org/abs/2012.06749), Rohit Prabhavalkar et al, 2012
 
 - [INPUT LENGTH MATTERS: AN EMPIRICAL STUDY OF RNN-T AND MWER TRAINING FOR LONG-FORM TELEPHONY SPEECH RECOGNITION](https://arxiv.org/pdf/2110.03841.pdf), Zhiyun Lu et al, 2110
-
-## streaming
-
-- [A BETTER AND FASTER END-TO-END MODEL FOR STREAMING ASR](https://arxiv.org/abs/2011.10798), Bo Li et al, 2011
-
-- [Bridging the gap between streaming and non-streaming ASR systems by distilling ensembles of CTC and RNN-T models](https://arxiv.org/abs/2104.14346), Thibault Doutre et al, 2104
-
-- [Reducing Streaming ASR Model Delay with Self Alignment](https://arxiv.org/abs/2105.05005), Jaeyoung Kim et al, 2105
-
-- [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
 
 
 ## cascaded
