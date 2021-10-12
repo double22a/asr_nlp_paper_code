@@ -125,6 +125,10 @@
 
 - [IMPROVING CONFIDENCE ESTIMATION ON OUT-OF-DOMAIN DATA FOR END-TO-END SPEECH RECOGNITION](https://arxiv.org/pdf/2110.03327.pdf), Qiujia Li et al, Google, 2110
 
+##  error correction
+
+- [FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition](https://arxiv.org/pdf/2109.14420.pdf), Yichong Leng et al, 2109
+
 ## review & survey
 
 - [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/abs/2005.14327), Jinyu Li et al, 2005
