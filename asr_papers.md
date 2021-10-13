@@ -112,6 +112,7 @@
 
 - [IMPROVING PSEUDO-LABEL TRAINING FOR END-TO-END SPEECH RECOGNITION USING GRADIENT MASK](https://arxiv.org/pdf/2110.04056.pdf), Shaoshi Ling et al, Bytedance, 2110
 
+- [WORD ORDER DOES NOT MATTER FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2110.05994.pdf), Vineel Pratap et al, 2110
 
 ## confidence estimation
 
