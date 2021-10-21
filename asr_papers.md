@@ -66,6 +66,8 @@
 
 - [DECOUPLING RECOGNITION AND TRANSCRIPTION IN MANDARIN ASR](https://arxiv.org/abs/2108.01129), Jiahong Yuan et al, 2108
 
+- [Have best of both worlds: two-pass hybrid and E2E cascading framework for speech recognition](https://arxiv.org/abs/2110.04891), Guoli Ye et al, 2110
+
 ## contextual & domain
 
 - [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, Google, 2003
