@@ -152,3 +152,5 @@
 
 - [Automatic Speech Recognition using limited vocabulary: A survey](https://arxiv.org/abs/2108.10254), JEAN LOUIS K. E. FENDJI et al, 2108
 
+- [Recent Advances in End-to-End Automatic Speech Recognition](https://arxiv.org/pdf/2111.01690.pdf), JINYU LI et al, 2111
+
