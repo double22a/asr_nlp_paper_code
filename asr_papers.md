@@ -82,6 +82,8 @@
 
 - [INTEGRATING CATEGORICAL FEATURES IN END-TO-END ASR](https://arxiv.org/pdf/2110.03047.pdf), Rongqing Huang et al, 2110
 
+- [CONTEXT-AWARE TRANSFORMER TRANSDUCER FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2111.03250.pdf), Feng-Ju Chang et al, Amazon, 2111
+
 ## multilingual & accent
 
 - [Scaling End-to-End Models for Large-Scale Multilingual ASR](https://arxiv.org/abs/2104.14830), Bo Li et al, 2104
