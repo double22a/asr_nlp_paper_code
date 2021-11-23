@@ -120,6 +120,8 @@
 
 - [Pseudo-Labeling for Massively Multilingual Speech Recognition](https://arxiv.org/abs/2111.00161), Loren Lugosch et al, Facebook, 2111
 
+- [SCALING ASR IMPROVES ZERO AND FEW SHOT LEARNING](https://arxiv.org/pdf/2111.05948.pdf), Alex Xiao et al, Facebook, 2111
+
 ## confidence estimation
 
 - [Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks](https://arxiv.org/pdf/1910.11933.pdf), A. Kastanos et al, 1910
