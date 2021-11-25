@@ -104,6 +104,8 @@
 
 ## unsupervised & semi-supervised & self-supervised
 
+- [Unsupervised Cross-lingual Representation Learning for Speech Recognition](https://arxiv.org/abs/2006.13979), Alexis Conneau et al, 2006
+
 - [Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/abs/2010.10504), Yu Zhang et al, 2010
 
 - [Unsupervised Speech Recognition](https://arxiv.org/abs/2105.11084), Alexei Baevski et al, 2105
