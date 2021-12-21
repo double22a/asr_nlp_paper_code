@@ -101,6 +101,8 @@
 
 - [MANDARIN-ENGLISH CODE-SWITCHING SPEECH RECOGNITION WITH SELF-SUPERVISED SPEECH REPRESENTATION MODELS](https://arxiv.org/pdf/2110.03504.pdf), Liang-Hsuan Tseng et al, 2110
 
+- [Integrating Knowledge in End-to-End Automatic Speech Recognition for Mandarin-English Code-Switching](https://arxiv.org/pdf/2112.10202.pdf), Chia-Yu Li et al, 2112
+
 
 ## unsupervised & semi-supervised & self-supervised
 
