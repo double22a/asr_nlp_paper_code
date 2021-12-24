@@ -122,6 +122,8 @@
 
 - [WORD ORDER DOES NOT MATTER FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2110.05994.pdf), Vineel Pratap et al, 2110
 
+- [WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing](https://arxiv.org/pdf/2110.13900.pdf), Sanyuan Chen et al, 2110
+
 - [Pseudo-Labeling for Massively Multilingual Speech Recognition](https://arxiv.org/abs/2111.00161), Loren Lugosch et al, Facebook, 2111
 
 - [SCALING ASR IMPROVES ZERO AND FEW SHOT LEARNING](https://arxiv.org/pdf/2111.05948.pdf), Alex Xiao et al, Facebook, 2111
