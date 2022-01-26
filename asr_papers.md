@@ -84,6 +84,11 @@
 
 - [CONTEXT-AWARE TRANSFORMER TRANSDUCER FOR SPEECH RECOGNITION](https://arxiv.org/pdf/2111.03250.pdf), Feng-Ju Chang et al, Amazon, 2111
 
+- [CONSISTENT TRAINING AND DECODING FOR END-TO-END SPEECH RECOGNITION USING LATTICE-FREE MMI](https://arxiv.org/pdf/2112.02498.pdf), Jinchuan Tian et al, 2112
+
+- [Improving Mandarin End-to-End Speech Recognition with Word N-gram Language Model](https://arxiv.org/pdf/2201.01995.pdf), Jinchuan Tian et al, 2201
+
+
 ## multilingual & accent
 
 - [Scaling End-to-End Models for Large-Scale Multilingual ASR](https://arxiv.org/abs/2104.14830), Bo Li et al, 2104
