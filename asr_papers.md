@@ -171,3 +171,7 @@
 
 - [Recent Advances in End-to-End Automatic Speech Recognition](https://arxiv.org/pdf/2111.01690.pdf), JINYU LI et al, 2111
 
+
+## other list of speech recognition
+
+- [speech-recognition-papers](https://github.com/wenet-e2e/speech-recognition-papers)
