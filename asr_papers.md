@@ -102,6 +102,8 @@
 
 ## code-switching
 
+- [Acoustic data augmentation for Mandarin-English code-switching speech recognition](https://sci-hub.hkvisa.net/10.1016/j.apacoust.2019.107175), Yanhua Long et al, 1911
+
 - [Bi-encoder Transformer Network for Mandarin-English Code-switching Speech Recognition using Mixture of Experts](https://speechlab.sjtu.edu.cn/papers/2020/yzl23-lu-is2020.pdf), Yizhou Lu et al, 2005
 
 - [MANDARIN-ENGLISH CODE-SWITCHING SPEECH RECOGNITION WITH SELF-SUPERVISED SPEECH REPRESENTATION MODELS](https://arxiv.org/pdf/2110.03504.pdf), Liang-Hsuan Tseng et al, 2110
