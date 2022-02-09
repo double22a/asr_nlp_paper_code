@@ -7,3 +7,8 @@
 ## data augmentation
 
 - [Data Augmentation Approaches in Natural Language Processing: A Survey](https://arxiv.org/abs/2110.01852), Bohan Li et al, 2110
+
+## prompt
+
+- [Must-read papers on prompt-based tuning for pre-trained language models](https://github.com/thunlp/PromptPapers)
+
