@@ -10,5 +10,5 @@
 
 ## prompt
 
-- [Must-read papers on prompt-based tuning for pre-trained language models](https://github.com/thunlp/PromptPapers)
+- [Must-read papers on prompt-based tuning for pre-trained language models](https://github.com/thunlp/PromptPapers), Ning Ding and Shengding Hu, 2201
 
