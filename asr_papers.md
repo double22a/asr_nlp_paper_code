@@ -88,6 +88,7 @@
 
 - [Improving Mandarin End-to-End Speech Recognition with Word N-gram Language Model](https://arxiv.org/pdf/2201.01995.pdf), Jinchuan Tian et al, 2201
 
+- [KNOWLEDGE TRANSFER FROM LARGE-SCALE PRETRAINED LANGUAGE MODELS TO END-TO-END SPEECH RECOGNIZERS](https://arxiv.org/pdf/2202.07894.pdf), Yotaro Kubo et al, Google, 2202
 
 ## multilingual & accent
 
