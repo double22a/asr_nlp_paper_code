@@ -12,3 +12,7 @@
 
 - [Must-read papers on prompt-based tuning for pre-trained language models](https://github.com/thunlp/PromptPapers), Ning Ding and Shengding Hu, 2201
 
+## transformer
+
+- [Transformer Quality in Linear Time](https://arxiv.org/pdf/2202.10447.pdf), Google, Weizhe Hua et al, 2202
+
