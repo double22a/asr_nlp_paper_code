@@ -138,6 +138,8 @@
 
 - [EFFICIENT ADAPTER TRANSFER OF SELF-SUPERVISED SPEECH MODELS FOR AUTOMATIC SPEECH RECOGNITION](https://arxiv.org/pdf/2202.03218.pdf), Bethan Thomas et al, 2202
 
+- [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/pdf/2204.02492.pdf), Alexander H. Liu et al, Facebook, 2204
+
 ## confidence estimation
 
 - [Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks](https://arxiv.org/pdf/1910.11933.pdf), A. Kastanos et al, 1910
