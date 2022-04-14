@@ -34,6 +34,8 @@
 
 - [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
 
+- [3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition](https://arxiv.org/pdf/2204.03178.pdf), Zhao You et al, 2204
+
 
 ## transducer
 
