@@ -69,6 +69,8 @@
 
 - [Have best of both worlds: two-pass hybrid and E2E cascading framework for speech recognition](https://arxiv.org/abs/2110.04891), Guoli Ye et al, 2110
 
+- [A Unified Cascaded Encoder ASR Model for Dynamic Model Sizes](https://arxiv.org/pdf/2204.06164v1.pdf), Shaojin Ding et al, Google, 2204
+
 ## contextual & domain
 
 - [HYBRID AUTOREGRESSIVE TRANSDUCER (HAT)](https://arxiv.org/abs/2003.07705), Ehsan Variani et al, Google, 2003
