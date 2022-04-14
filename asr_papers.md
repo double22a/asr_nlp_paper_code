@@ -24,6 +24,8 @@
 
 - [A Survey of Transformers](https://arxiv.org/abs/2106.04554), Tianyang Lin et al, 2106
 
+- [3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition](https://arxiv.org/pdf/2204.03178.pdf), Zhao You et al, 2204
+
 ## streaming & attention based
 
 - [A BETTER AND FASTER END-TO-END MODEL FOR STREAMING ASR](https://arxiv.org/abs/2011.10798), Bo Li et al, 2011
@@ -33,9 +35,6 @@
 - [Reducing Streaming ASR Model Delay with Self Alignment](https://arxiv.org/abs/2105.05005), Jaeyoung Kim et al, 2105
 
 - [Streaming End-to-End ASR based on Blockwise Non-Autoregressive Models](https://arxiv.org/abs/2107.09428), Tianzi Wang et al, 2107
-
-- [3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition](https://arxiv.org/pdf/2204.03178.pdf), Zhao You et al, 2204
-
 
 ## transducer
 
