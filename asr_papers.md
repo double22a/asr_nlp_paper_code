@@ -185,3 +185,5 @@
 ## other list of speech recognition
 
 - [speech-recognition-papers](https://github.com/wenet-e2e/speech-recognition-papers)
+
+- [code-switching-papers](https://github.com/gentaiscool/code-switching-papers)
