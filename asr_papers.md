@@ -26,6 +26,8 @@
 
 - [3M: Multi-loss, Multi-path and Multi-level Neural Networks for speech recognition](https://arxiv.org/pdf/2204.03178.pdf), Zhao You et al, 2022.04
 
+- [Squeezeformer: An Efficient Transformer for Automatic Speech Recognition](https://arxiv.org/abs/2206.00888), Sehoon Kim et al, 2022.06
+
 ## streaming & attention based
 
 - [A BETTER AND FASTER END-TO-END MODEL FOR STREAMING ASR](https://arxiv.org/abs/2011.10798), Bo Li et al, 2020.11
