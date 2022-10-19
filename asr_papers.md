@@ -107,6 +107,8 @@
 
 - [ACCENT-ROBUST AUTOMATIC SPEECH RECOGNITION USING SUPERVISED AND UNSUPERVISED WAV2VEC EMBEDDINGS](https://arxiv.org/pdf/2110.03520.pdf), Jialu Li et al, Facebook, 2021.10
 
+- [SCALING UP DELIBERATION FOR MULTILINGUAL ASR](https://arxiv.org/pdf/2210.05785.pdf), Ke Hu et al, Google, 2022.10
+
 
 ## code-switching
 
