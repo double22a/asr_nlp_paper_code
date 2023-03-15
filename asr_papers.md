@@ -109,6 +109,10 @@
 
 - [SCALING UP DELIBERATION FOR MULTILINGUAL ASR](https://arxiv.org/pdf/2210.05785.pdf), Ke Hu et al, Google, 2022.10
 
+- [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/pdf/2212.04356.pdf), Alec Radford et al, OpenAI, 2022.12
+
+- [Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages](https://arxiv.org/pdf/2303.01037.pdf), Yu Zhang et al, Google, 2023.03
+
 
 ## code-switching
 
